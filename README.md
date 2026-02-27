@@ -30,7 +30,7 @@ This is my personal cybersecurity portfolio, built as a single-page HTML site an
 
 | Layer | Details |
 |---|---|
-| Frontend | HTML, CSS, Vanilla JavaScript |
+| Frontend | HTML, CSS, JavaScript |
 | Hosting | GitHub Pages |
 | Contact Form | Formspree |
 | Fonts | Google Fonts (Orbitron, Share Tech Mono, Exo 2) |
